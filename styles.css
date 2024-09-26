@@ -1,0 +1,130 @@
+body {
+  text-align: center;
+  background-color: #efefef;
+}
+
+h1 {
+  font-size: 5rem;
+  color: #010101;
+  font-family: "Arvo", cursive;
+  text-shadow: 3px 0 #DA0463;
+
+}
+
+footer {
+  color: #010101;
+  font-family: sans-serif;
+}
+
+
+
+.a {
+  height: 100px;
+  width: 30px;
+  color: white;
+  background-color: burlywood;
+  border: none;
+  
+}
+.s {
+  height: 150px;
+  width: 30px;
+  color: white;
+  background-color: burlywood;
+  border: none;
+  margin-left: 10px;
+}
+.d {
+  height: 200px;
+  width: 30px;
+  color: white;
+  background-color: burlywood;
+  border: none;
+  margin-left: 10px;
+}
+.f {
+  height: 250px;
+  width: 30px;
+  color: white;
+  background-color: burlywood;
+  border: none;
+  margin-left: 10px;
+}
+.g {
+  height: 300px;
+  width: 30px;
+  color: white;
+  background-color: burlywood;
+  border: none;
+  margin-left: 10px;
+}
+.h {
+  height: 350px;
+  width: 30px;
+  color: white;
+  background-color: burlywood;
+  border: none;
+  margin-left: 10px;
+}
+.j {
+  height: 400px;
+  width: 30px;
+  color: white;
+  background-color: burlywood;
+  border: none;
+  margin-left: 10px;
+}
+.k {
+  height: 450px;
+  width: 30px;
+  color: white;
+  background-color: burlywood;
+  border: none;
+  margin-left: 10px;
+}
+.l {
+  height: 500px;
+  width: 30px;
+  color: white;
+  background-color: burlywood;
+  border: none;
+  margin-left: 10px;
+}
+.c {
+  height: 550px;
+  width: 30px;
+  color: white;
+  background-color: burlywood;
+  border: none;
+  margin-left: 10px;
+}
+.v {
+  height: 600px;
+  width: 30px;
+  color: white;
+  background-color: burlywood;
+  border: none;
+  margin-left: 10px;
+}
+
+
+
+.set {
+  margin: 10% auto;
+}
+
+.game-over {
+  background-color: red;
+  opacity: 0.8;
+}
+
+.pressed {
+  box-shadow: 0 3px 4px 0 #DBEDF3;
+  opacity: 0.5;
+}
+
+.red {
+  color: red;
+}
+
+
