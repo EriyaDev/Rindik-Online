@@ -1,6 +1,9 @@
 body {
   text-align: center;
   background-color: #efefef;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
 }
 
 h1 {
@@ -127,4 +130,17 @@ footer {
   color: red;
 }
 
+@media screen and (orientation: landscape){
+  h1{
+    display: none;
+  }
+
+  footer{
+    display: none;
+  }
+
+  body{
+    height: 90vh;
+  }
+}
 

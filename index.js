@@ -1,3 +1,14 @@
+var elem = document.getElementById("rindik-container");
+function openFullscreen() {
+  if (elem.requestFullscreen) {
+    elem.requestFullscreen();
+  } else if (elem.webkitRequestFullscreen) { /* Safari */
+    elem.webkitRequestFullscreen();
+  } else if (elem.msRequestFullscreen) { /* IE11 */
+    elem.msRequestFullscreen();
+  }
+}
+
 
 for(i = 0; i  < document.querySelectorAll(".rindik").length; i++){
     document.querySelectorAll(".rindik")[i].addEventListener("click", function (){
